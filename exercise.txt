@@ -1,0 +1,4 @@
+git log 
+git --stat
+git status 
+git commit -m 
